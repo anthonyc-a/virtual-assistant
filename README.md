@@ -16,7 +16,7 @@ You can install the required dependencies using pip:
 ```shell
 pip install gtts openai pygame SpeechRecognition
 Setup
-
+```
 Before running the script, make sure you have an OpenAI API key. Set your API key by assigning it to the openai.api_key variable at the beginning of the script.
 
 python
