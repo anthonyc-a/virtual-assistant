@@ -19,9 +19,9 @@ Setup
 ```
 Before running the script, make sure you have an OpenAI API key. Set your API key by assigning it to the openai.api_key variable at the beginning of the script.
 
-python
-Copy code
+```
 openai.api_key = "YOUR_OPENAI_API_KEY"
+```
 Usage
 
 To start the virtual assistant, run the script. The assistant will continuously listen for your voice input and respond accordingly. You can communicate with the assistant by speaking and hearing the responses.
