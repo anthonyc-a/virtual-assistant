@@ -3,7 +3,7 @@ import openai
 import pygame
 import speech_recognition as sr
 
-openai.api_key = "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"
+openai.api_key = ""
 
 pygame.init()
 
